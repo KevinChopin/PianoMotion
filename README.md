@@ -1,4 +1,7 @@
 # PianoMotion
+
+Don't let age dictate the end of the music. PianoMotion is the key to ensure your piano, even if 'forgotten' by its manufacturer, keeps playing the entire MIDI repertoire!
+
 🎹 PianoMotion – Bring Your Player Piano Back to Life!
 
 Do you own a piano equipped with a player system (like Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, or PianoDisc)? Then PianoMotion is made for you!
@@ -30,6 +33,8 @@ Join the PianoMotion movement – and let your piano sing again.
 --------------------------------------------------------------------
 
 🎹 PianoMotion – Redonnez vie à votre piano automatique !
+
+Ne laissons pas l'âge dicter la fin de la musique. PianoMotion est la clé pour que votre piano, même 'oublié' par son constructeur, continue de jouer l'intégralité du répertoire MIDI !
 
 Vous possédez un piano équipé d’un système autoplayer (type Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS ou PianoDisc) ? Alors PianoMotion est faite pour vous !
 👉 PianoMotion est une application mobile gratuite qui vous permet de jouer n’importe quel fichier MIDI contenant une partie de piano sur votre smartphone via le bluetooth directement sur votre piano acoustique équipé d'un adaptateur MIDI.
