@@ -3,7 +3,7 @@
 
 Do you own a piano equipped with a player system (like Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, or PianoDisc)? Then PianoMotion is made for you!
 
-👉 PianoMotion is a free mobile app that lets you play any MIDI file containing piano parts from your smartphone via Bluetooth directly on your acoustic piano equipped with a MIDI adapter.
+👉 PianoMotion is a free mobile app that lets you play any MIDI file containing piano parts from your android smartphone via Bluetooth directly on your acoustic piano equipped with a MIDI adapter.
 
 🔌 How Does It Work?
 It’s simple:
