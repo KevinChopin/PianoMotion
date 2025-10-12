@@ -25,7 +25,7 @@ PianoMotion was created with a mission:
 💖 PianoMotion is completely free, with no ads – because music should be shared, felt, and enjoyed, not hidden behind paywalls. These incredible instruments still have so much emotion to give.
 Join the PianoMotion movement – and let your piano sing again.
 
-☕ If you like the project, feel free to support me by buying me a coffee on Tipeee : https://fr.tipeee.com/pianomotion-give-life-back-to-the-player-piano/
+☕ If you like the project, feel free to support me by buying me a coffee on Tipeee : https://tipeee.com/pianomotion-give-life-back-to-the-player-piano/
 
 --------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Aujourd’hui, il existe très peu, voire aucun logiciel simple et accessible po
 💖 L’application est gratuite, sans publicité, car la musique doit rester un plaisir accessible, et ces instruments méritent une seconde vie.
 Rejoignez le mouvement PianoMotion, et faites vibrer votre piano comme jamais auparavant.
 
-☕ Si vous aimez le projet, vous pouvez me soutenir en m’offrant un café sur Tipeee : https://fr.tipeee.com/pianomotion-give-life-back-to-the-player-piano/
+☕ Si vous aimez le projet, vous pouvez me soutenir en m’offrant un café sur Tipeee : https://tipeee.com/pianomotion-give-life-back-to-the-player-piano/
 
 
 
