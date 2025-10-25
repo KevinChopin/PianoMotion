@@ -2,7 +2,7 @@
 
 Don't let age dictate the end of the music. PianoMotion is the key to ensure your piano, even if 'forgotten' by its manufacturer, keeps playing the entire MIDI repertoire!
 
-🎹 PianoMotion – Bring Your Player Piano Back to Life!
+🎹 PianoMotion – Bring Your self-playing Piano Back to Life!
 
 Do you own a piano equipped with a player system (like Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS,PianoDisc, or QRS PNOmation, Kawai Automation)? Then PianoMotion is made for you!
 
