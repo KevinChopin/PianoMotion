@@ -23,7 +23,7 @@ PianoMotion was created with a mission:
 
 ✨ Features:
 🎵 Play MIDI files wirelessly via Bluetooth
-🎹 Recording mode to capture and replay your own performances
+🎹 Recording mode to capture and replay your own performances, record your old PianoSoft Plus or other floppy disks, as well as the songs stored in your controller’s memory.
 🔜 Coming soon: “Voice + MIDI” mode – sing along to your favorite tracks with your piano as the backing band
 💖 PianoMotion is completely free, with no ads – because music should be shared, felt, and enjoyed, not hidden behind paywalls. These incredible instruments still have so much emotion to give.
 Join the PianoMotion movement – and let your piano sing again.
