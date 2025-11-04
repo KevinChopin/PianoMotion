@@ -55,7 +55,8 @@ Aujourd’hui, il existe très peu, voire aucun logiciel simple et accessible po
 ✨ Fonctions disponibles :
 🎵 Lecture de fichiers MIDI via Bluetooth
 🎹 Mode enregistrement pour capturer vos performances et les réécouter
-🔜 Prochainement : Mode “Voice + MIDI” pour accompagner vos morceaux préférés avec le son authentique de votre piano
+🔜 Prochainement : Mode “Voice + MIDI” pour accompagner vos morceaux préférés avec le son authentique de votre piano.
+Je vais également intégrer à l'application des fichiers midi et les enregistrements Yamaha E-competitions.
 💖 L’application est gratuite, sans publicité, car la musique doit rester un plaisir accessible, et ces instruments méritent une seconde vie.
 Rejoignez le mouvement PianoMotion, et faites vibrer votre piano comme jamais auparavant.
 
