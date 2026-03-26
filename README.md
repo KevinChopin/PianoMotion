@@ -26,17 +26,26 @@ Enjoyed PianoMotion? If you'd like to help, please don't hesitate to share it wi
 🎹 Réutilisez votre Disklavier ! 🎶
 
 Je suis ravi de vous présenter PianoMotion, l'application Android TOTALEMENT GRATUITE et SANS PUBLICITÉ qui vous donne le contrôle total de votre piano acoustique automatique (Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, PianoDisc, QRS, ...) – plus besoin de DKC-900 ou DKC-850...
+
 La Promesse Simple :
 •	Jouez N'IMPORTE QUEL fichier MIDI sur votre piano.
 •	Via Bluetooth SANS FIL.
 •	SANS avoir besoin d'acheter de DKC-900, DKC-850 ou autre boîtier coûteux.
-Voir le Disklavier en action : https://www.youtube.com/watch?v=TNy_nbIM1wI
+
+Pour voir le Disklavier en action : https://www.youtube.com/watch?v=TNy_nbIM1wI
+
 ✨ Pourquoi PianoMotion est la solution que vous attendiez :
 💰 APPLI100% GRATUITE et SANS PUB Le seul coût est un adaptateur MIDI Bluetooth standard (Yamaha MD BT 01 ou équivalent). 🔓 Indépendance Totale Contournez les limitations logicielles des fabricants. Faites revivre les anciens modèles ! 🌍 Bibliothèque Illimitée Jouez n'importe quel morceau que vous trouvez en ligne : accès au plus grand catalogue MIDI du monde. ⏺️ Enregistrement Facile Enregistrez et rejouez instantanément vos propres performances (et celles de vos amis). 🎙️ Bientôt : Mode "Karaoké" Chantez ou jouez un autre instrument pendant que votre piano assure l'accompagnement.
+
 🚀 C'est Incroyablement Simple :
 •	Branchez n'importe quel adaptateur MIDI Bluetooth (Yamaha MD-BT01, CME WIDI Master, etc.) sur les ports MIDI de votre piano.
 •	Connectez-vous à l'application PianoMotion sur votre téléphone Android.
-•	Chargez le fichier MIDI de votre choix et appuyez sur Lecture. Regardez et écoutez votre instrument s'animer ! 📥 Téléchargez et Essayez (APK Android) J'ai créé PianoMotion par passion, frustré de voir les fabricants abandonner les anciens instruments. Mon but est de rendre la magie du piano automatique accessible à tous. Téléchargez l'APK ici : https://github.com/KevinChopin/PianoMotion Vos retours (bugs, idées, suggestions) sont essentiels pour améliorer cette application pour la communauté. Merci de redonner vie à nos pianos ! 💖 
+•	Chargez le fichier MIDI de votre choix et appuyez sur Lecture. Regardez et écoutez votre instrument s'animer ! 
+
+📥 Téléchargez et Essayez (APK Android) J'ai créé PianoMotion par passion, frustré de voir les fabricants abandonner les anciens instruments. Mon but est de rendre la magie du piano automatique accessible à tous. Téléchargez l'APK ici : https://github.com/KevinChopin/PianoMotion Vos retours (bugs, idées, suggestions) sont essentiels pour améliorer cette application pour la communauté. 
+
+Merci de redonner vie à nos pianos automatique ! 💖 
 •	Si vous souhaitez m'aider, n'hésitez pas à en parler autour de vous !
-•	Vous aimez le projet ? Soutenez-le en m'offrant un café !  https://fr.tipeee.com/kevinchopin ou me soutenir sur ma chaine youtube : https://www.youtube.com/@kevinchopin
+Vous aimez le projet ? 
+Soutenez-le en m'offrant un café !  https://fr.tipeee.com/kevinchopin ou me soutenir sur ma chaine youtube : https://www.youtube.com/@kevinchopin
 
