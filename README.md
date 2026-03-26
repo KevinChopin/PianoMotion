@@ -24,6 +24,7 @@ Thanks for reading, and let’s make our pianos sing again!
 Enjoyed PianoMotion? If you'd like to help, please don't hesitate to share it with others! You can buy me a coffee to support the project: https://fr.tipeee.com/kevinchopin or support me on my youtube channel : https://www.youtube.com/@kevinchopin 
  
 🎹 Réutilisez votre Disklavier ! 🎶
+
 Je suis ravi de vous présenter PianoMotion, l'application Android TOTALEMENT GRATUITE et SANS PUBLICITÉ qui vous donne le contrôle total de votre piano acoustique automatique (Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, PianoDisc, QRS, ...) – plus besoin de DKC-900 ou DKC-850...
 La Promesse Simple :
 •	Jouez N'IMPORTE QUEL fichier MIDI sur votre piano.
