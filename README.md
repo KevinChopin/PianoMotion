@@ -1,5 +1,6 @@
 PianoMotion - Give Life Back To Self-Playing Piano
-Bonjour! I’m a piano and tech enthusiast, and I just finished developing PianoMotion a bluetooth midi player for self playing piano, an Android app (totally free and free of ads!) that lets you play any piano MIDI file wirelessly via Bluetooth on your acoustic player piano (Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, PianoDisc, QRS, …) no more need of DKC-900 or DKC-850...
+
+Bonjour! I’m a piano and tech enthusiast and french youtuber, and I just finished developing PianoMotion a bluetooth midi player for self playing piano, an Android app (totally free and free of ads!) that lets you play any piano MIDI file wirelessly via Bluetooth on your acoustic player piano (Yamaha Disklavier, Steinway Spirio, Bösendorfer CEUS, PianoDisc, QRS, …) no more need of DKC-900 or DKC-850...
 📥 **Download the APK here:**https://github.com/KevinChopin/PianoMotion
 IMPORTANT: The app is not currently on the Play Store. Installation must be done manually: download the APK from my GitHub repository and then run the file. It is essential that you have enabled the permission to 'Install unknown apps' in your device settings beforehand.
 How it works:
