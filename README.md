@@ -21,7 +21,7 @@ I’d love for everyone to try PianoMotion. Your bug reports, suggestions, and f
 If you want to see the disklavier in action : https://www.youtube.com/watch?v=TNy_nbIM1wI
 Thanks for reading, and let’s make our pianos sing again!
   
-Enjoyed PianoMotion? If you'd like to help, please don't hesitate to share it with others! You can buy me a coffee to support the project: https://fr.tipeee.com/kevinchopin or support me on my youtube channel : https://www.youtube.com/@kevinchopin 
+Enjoyed PianoMotion? If you'd like to help, please don't hesitate to share it with others! You can buy me a coffee to support the project: https://fr.tipeee.com/kevinchopin or support me on my youtube channel : https://m.youtube.com/@KevinChopinLive 
  
 🎹 Réutilisez votre Disklavier ! 🎶
 
@@ -47,5 +47,5 @@ Pour voir le Disklavier en action : https://www.youtube.com/watch?v=TNy_nbIM1wI
 Merci de redonner vie à nos pianos automatique ! 💖 
 •	Si vous souhaitez m'aider, n'hésitez pas à en parler autour de vous !
 Vous aimez le projet ? 
-Soutenez-le en m'offrant un café !  https://fr.tipeee.com/kevinchopin ou me soutenir sur ma chaine youtube : https://www.youtube.com/@kevinchopin
+Soutenez-le en m'offrant un café !  https://fr.tipeee.com/kevinchopin ou me soutenir sur ma chaine youtube : https://m.youtube.com/@KevinChopinLive
 
